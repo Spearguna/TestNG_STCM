@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-26T06:18:17Z" name="Default suite" finished-at="2023-07-26T06:21:35Z" duration-ms="197204">
+    <groups>
+    </groups>
+    <test started-at="2023-07-26T06:18:17Z" name="Default test" finished-at="2023-07-26T06:21:35Z" duration-ms="197204">
+      <class name="com.google.TestNG_STCM.Amazon_STCM">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.google.TestNG_STCM.Amazon_STCM@31920ade]" started-at="2023-07-26T06:18:17Z" name="setUP" finished-at="2023-07-26T06:18:17Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.google.TestNG_STCM.Amazon_STCM@31920ade]" started-at="2023-07-26T06:18:17Z" name="browserLaunch" finished-at="2023-07-26T06:18:38Z" duration-ms="20821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:com.google.TestNG_STCM.Amazon_STCM@31920ade]" started-at="2023-07-26T06:18:38Z" name="urlLaunch" finished-at="2023-07-26T06:19:14Z" duration-ms="35850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.google.TestNG_STCM.Amazon_STCM@31920ade]" started-at="2023-07-26T06:19:14Z" name="login" finished-at="2023-07-26T06:19:34Z" duration-ms="19380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchAsus()[pri:0, instance:com.google.TestNG_STCM.Amazon_STCM@31920ade]" started-at="2023-07-26T06:19:34Z" name="searchAsus" finished-at="2023-07-26T06:20:17Z" duration-ms="43294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAsus -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.google.TestNG_STCM.Amazon_STCM@31920ade]" started-at="2023-07-26T06:20:17Z" name="logout" finished-at="2023-07-26T06:20:44Z" duration-ms="27223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.google.TestNG_STCM.Amazon_STCM@31920ade]" started-at="2023-07-26T06:20:44Z" name="login" finished-at="2023-07-26T06:21:02Z" duration-ms="17915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchpPS5()[pri:0, instance:com.google.TestNG_STCM.Amazon_STCM@31920ade]" started-at="2023-07-26T06:21:02Z" name="searchpPS5" finished-at="2023-07-26T06:21:09Z" duration-ms="6620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchpPS5 -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.google.TestNG_STCM.Amazon_STCM@31920ade]" started-at="2023-07-26T06:21:09Z" name="logout" finished-at="2023-07-26T06:21:35Z" duration-ms="25939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="getTitile()[pri:0, instance:com.google.TestNG_STCM.Amazon_STCM@31920ade]" started-at="2023-07-26T06:21:35Z" name="getTitile" finished-at="2023-07-26T06:21:35Z" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitile -->
+        <test-method is-config="true" signature="getUrl()[pri:0, instance:com.google.TestNG_STCM.Amazon_STCM@31920ade]" started-at="2023-07-26T06:21:35Z" name="getUrl" finished-at="2023-07-26T06:21:35Z" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUrl -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.google.TestNG_STCM.Amazon_STCM@31920ade]" started-at="2023-07-26T06:21:35Z" name="closeBrowser" finished-at="2023-07-26T06:21:36Z" duration-ms="770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.google.TestNG_STCM.Amazon_STCM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

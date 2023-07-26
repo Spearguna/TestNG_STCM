@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.google.TestNG_STCM.Amazon_STCM">
+        <methods>
+          <include name="logout"/>
+          <include name="browserLaunch"/>
+          <include name="getUrl"/>
+          <include name="closeBrowser"/>
+          <include name="login"/>
+          <include name="getTitile"/>
+          <include name="searchAsus"/>
+          <include name="setUP"/>
+          <include name="searchpPS5"/>
+          <include name="urlLaunch"/>
+        </methods>
+      </class> <!-- com.google.TestNG_STCM.Amazon_STCM -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
